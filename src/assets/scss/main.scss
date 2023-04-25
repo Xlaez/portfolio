@@ -1,0 +1,36 @@
+// ================================================================================================
+//  File Name: main.scss
+//  Description: Main Style File
+//  ----------------------------------------------------------------------------------------------
+//  Item Name: Kiama portfolio
+//  Author: KIAMA
+//  Author URL: http://www.kiama.com/
+// ================================================================================================
+
+/*----FontAwesome-------*/
+@import url("../fonts/font-awesome/css/font-awesome.min.css");
+@import "bootstrap/dist/css/bootstrap.css";
+
+// Style Scss
+@import "main/modal";
+
+@import "main/portfolio-modal";
+@import "main/portfolio";
+
+@import "main/404";
+// Circle Style for skill
+@import "main/circle";
+
+@import "main/slick";
+
+// Switcher for color dark and light
+@import "main/switcher";
+
+// Style default
+@import "main/style";
+
+// skin
+@import "main/skins";
+
+// modal for portfolio
+@import "main/modal-portfolio";

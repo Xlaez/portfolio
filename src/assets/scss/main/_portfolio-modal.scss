@@ -1,0 +1,22 @@
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin img-size {
+  height: 100%;
+  width: 100%;
+}
+
+@mixin icon-vector {
+  height: 2rem;
+  width: 2rem;
+}
+$laptop-land: 75em; //1200px / 16px = 75em
+$laptop-port: 64em; //1024px / 16px = 64em
+$tab-land: 62em; //992px / 16px = 62em
+$tab-port: 48em; //768px / 16px = 48em
+$mbl-land: 35.9375em; //575px / 16px = 35.9375em
+$mbl-port: 30em; //480px / 16px = 30em
+$mbl-small: 23.75em; //380px / 16px = 23.75em
