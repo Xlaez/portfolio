@@ -1,4 +1,3 @@
-import Image1 from "@assets/images/portfolio/project-1.jpg";
 import tonioImg from "@assets/images/kiama/tonioImg.jpg";
 import cvTonio from "@assets/images/cvTonio.jpg";
 
@@ -6,7 +5,7 @@ import cvTonio from "@assets/images/cvTonio.jpg";
 // Andry Rasolofomanana Data
 // =============================================================================
 import kiamaImg from "@assets/images/andry/dark.jpg";
-import utibeImg from "@assets/images/utibe/me.png";
+import utibeImg from "@assets/images/utibe/avatar.jpg";
 import kiamaImgMobile from "@assets/images/andry/img-mobile.jpg";
 
 // cv
@@ -19,24 +18,18 @@ import anansi2 from "@assets/images/andry/portfolio/anansi/2.png";
 import anansi3 from "@assets/images/andry/portfolio/anansi/3.png";
 import anansi4 from "@assets/images/andry/portfolio/anansi/4.png";
 
-// dolphjs
-import dolphjsGithub from "@assets/images/utibe/portfolio/dolphjs/dolphjs-github.png";
-import dolphjs from "@assets/images/utibe/portfolio/dolphjs/dolphjs.png";
+import krypt1 from "@assets/images/utibe/portfolio/krypt/krypt1.png";
+import krypt2 from "@assets/images/utibe/portfolio/krypt/krypt2.png";
 
 // books-news
 import booksNews1 from "@assets/images/andry/portfolio/books-news/1.png";
-
-// javashop
-import javashop from "@assets/images/utibe/portfolio/javashop/java-microservice.png";
-
-// chat app
-import chatapp from "@assets/images/utibe/portfolio/chatapp/solidity-chat.png";
 
 // kamouhop
 import kamoushop from "@assets/images/utibe/portfolio/kamoushop/kamoushop.png";
 
 // readersplug
 import readersplug from "../assets/images/utibe/portfolio/readersplug/readersplug.png";
+import readersplug2 from "../assets/images/utibe/portfolio/readersplug/readersplug2.png";
 
 // brave
 import brave1 from "@assets/images/andry/portfolio/brave/1.png";
@@ -53,8 +46,6 @@ import hiBazary2 from "@assets/images/andry/portfolio/hi-bazary/2.png";
 import hiBazary3 from "@assets/images/andry/portfolio/hi-bazary/3.png";
 import hiBazary4 from "@assets/images/andry/portfolio/hi-bazary/4.png";
 import hiBazary5 from "@assets/images/andry/portfolio/hi-bazary/5.png";
-import hiBazary6 from "@assets/images/andry/portfolio/hi-bazary/6.png";
-import hiBazary7 from "@assets/images/andry/portfolio/hi-bazary/7.png";
 // mokagere
 import mokagere1 from "@assets/images/andry/portfolio/mokagere/1.png";
 import mokagere2 from "@assets/images/andry/portfolio/mokagere/2.png";
@@ -68,6 +59,8 @@ import readersplug1 from "@assets/images/andry/portfolio/readersplug/2.png";
 import anticipio1 from "@assets/images/andry/portfolio/anticipio/2.png";
 // mokwizz
 import mokwizz1 from "@assets/images/andry/portfolio/mokwizz/1.png";
+
+import utibecv from "@assets/images/utibe/my-cv-1.pdf";
 
 const Data = [
   [
@@ -683,7 +676,7 @@ const Data = [
           },
           {
             meta: "Nickname",
-            metaInfo: "lyrx",
+            metaInfo: "Lyrx",
           },
           // {
           //   meta: "Age",
@@ -699,7 +692,7 @@ const Data = [
           },
           {
             meta: "Address",
-            metaInfo: "Lokoja",
+            metaInfo: "Abuja, Nigeria",
             metaDataClass: "fa fa-map position-absolute",
             metaContext: "My Address",
           },
@@ -730,31 +723,31 @@ const Data = [
         goal: "My goal is to build software to assists developers in making positive impact in the world as well as developing these technologies too.",
         archievements: [
           {
-            title: "2",
+            title: "3",
             subTitle1: "years of",
             subTitle2: "experience",
           },
           {
-            title: "10",
+            title: "15",
             subTitle1: "completed",
             subTitle2: "projects",
           },
           {
-            title: "10",
+            title: "15",
             subTitle1: "Happy",
             subTitle2: "customers",
           },
         ],
         education: [
           {
-            year: "2021",
+            year: "2022",
             degree: "Bachelor's Degree",
             institute: "Federal University Lokoja",
             details:
               "Currently studying Computer Science here and maintaing an excellent CGPA.",
           },
           {
-            year: "2020",
+            year: "2021",
             degree: "High School Diploma",
             institute: "Heritage College",
             details:
@@ -771,10 +764,17 @@ const Data = [
           },
           {
             year: "2022",
-            position: "Lead Backend Developer",
+            position: "Software Developer",
             compnayName: "Renaisi",
             details:
               "Leading other backend developers to building  robust, scalabale systems and communicating ideas with superiors.",
+          },
+          {
+            year: "2021 - 2022",
+            position: "Backend Developer",
+            compnayName: "Future Labs Nigeria",
+            details:
+              "I worked as backend developer here. Built APIs for thier first blog component and helped tutuor interns.",
           },
           {
             year: "2021",
@@ -794,24 +794,24 @@ const Data = [
         skill: [
           { skillClass: "p90", skillPercent: "90", skillName: "HTML" },
           { skillClass: "p70", skillPercent: "70", skillName: "SCSS" },
-          { skillClass: "p80", skillPercent: "80", skillName: "CSS" },
+          { skillClass: "p85", skillPercent: "85", skillName: "CSS" },
           { skillClass: "p80", skillPercent: "80", skillName: "Solidity" },
           { skillClass: "p95", skillPercent: "95", skillName: "JavaScript" },
           { skillClass: "p92", skillPercent: "92", skillName: "TypeScript" },
-          { skillClass: "p95", skillPercent: "95", skillName: "Express.js" },
+          { skillClass: "p95", skillPercent: "95", skillName: "Express.Js" },
           { skillClass: "p99", skillPercent: "99", skillName: "Dolph.Js" },
           { skillClass: "p80", skillPercent: "80", skillName: "React.Js" },
           { skillClass: "p80", skillPercent: "80", skillName: "Next.Js" },
-          { skillClass: "p65", skillPercent: "65", skillName: "Vue.Js" },
+          { skillClass: "p70", skillPercent: "70", skillName: "Vue.Js" },
           { skillClass: "p80", skillPercent: "80", skillName: "Go" },
           { skillClass: "p80", skillPercent: "80", skillName: "Gin-Gonic" },
           { skillClass: "p88", skillPercent: "88", skillName: "Testing" },
-          { skillClass: "p65", skillPercent: "65", skillName: "DevOPS" },
-          { skillClass: "p60", skillPercent: "60", skillName: "Microservices" },
+          { skillClass: "p70", skillPercent: "70", skillName: "DevOPS" },
+          { skillClass: "p75", skillPercent: "75", skillName: "Microservices" },
           { skillClass: "p75", skillPercent: "75", skillName: "Postgres" },
           { skillClass: "p95", skillPercent: "95", skillName: "MongoDb" },
           { skillClass: "p70", skillPercent: "70", skillName: "Mysql" },
-          { skillClass: "p70", skillPercent: "70", skillName: "Python" },
+          { skillClass: "p60", skillPercent: "60", skillName: "Python" },
         ],
       },
       informationAdditional: {
@@ -823,12 +823,54 @@ const Data = [
           "Blockchain Developer",
           "Freelancer",
         ],
-        descriptions: `I am a software developer and blockchain developer, skilled in solving complex problems and delivering quality results for clients. My focus is on web (frontend, bots and bacekend) and blockchain development. Based in Nigeria, I am passionate about technology and continuously learning to improve my skills.`,
+        descriptions: `I am a software and blockchain developer, skilled in solving complex problems and delivering quality results for clients. I am passionate about building software tools to help other software engineers which explains why I created dolphjs. Based in Nigeria, I am passionate about technology and continuously learning to improve my skills.`,
         kiamaBtn: "more about me",
       },
       PortfolioData: [
         {
           id: 1,
+          title: "Krypt",
+          image: krypt1,
+          category: "blockchain",
+          delayAnimation: "200",
+          modalDetails: [
+            {
+              tag: ["blockchain", "web3"],
+              client: "Personal Project",
+              technolgy: "Solidity, Hardhat, Web3Js, Vite, ReactJs",
+              body: [
+                "<p>Krypt is a personal project built on the ethereum blockchain which allows users to send cypto-currency (ethereum) to another user across the world in milli-seconds.</p>",
+              ],
+              gallery: {
+                // imageOne: krypt1,
+                imageOne: krypt2,
+              },
+            },
+          ],
+        },
+        {
+          id: 2,
+          title: "Brave",
+          image: brave1,
+          category: "web",
+          delayAnimation: "100",
+          modalDetails: [
+            {
+              tag: ["web", "react"],
+              client: "Freelance",
+              technolgy: "Mysql, React.js, Headless, TailwindCss",
+              body: [
+                "<p>Brave is a platform for managing civic services. It is designed to provide support and assistance to employees working in civic organizations at the national and local levels in the archipelago. In this project, I was responsible for creating the platform.</p>",
+              ],
+              gallery: {
+                imageOne: brave2,
+                imageTwo: brave3,
+              },
+            },
+          ],
+        },
+        {
+          id: 3,
           title: "Kamoushop",
           image: kamoushop,
           category: "api",
@@ -848,7 +890,7 @@ const Data = [
           ],
         },
         {
-          id: 2,
+          id: 4,
           title: "Readers Plug",
           image: readersplug,
           category: "api",
@@ -862,77 +904,15 @@ const Data = [
                 "<p>ReadersPlug is a modern-day edTech startup that aims to make educational materials closer to those who need them. The social platform brings writers in close contact with thier readers and vice-versa and also provides large commuities for book-worms.</p>",
               ],
               gallery: {
-                imageOne: readersplug,
-                imageTwo: hiBazary3,
-                // imageThree: hiBazary4,
-                // imageFour: hiBazary5,
+                imageOne: readersplug2,
+                imageTwo: readersplug1,
               },
             },
           ],
         },
-        {
-          id: 3,
-          title: "Anansi",
-          image: anansi1,
-          category: "web",
-          delayAnimation: "200",
-          modalDetails: [
-            {
-              tag: ["social network", "web"],
-              client: "Anaïse CONSTANT",
-              technolgy: "Mysql, Laravel",
-              body: [
-                "<p>Anansi is a web-based social network designed for collaborative work. It aims to connect individuals, professionals, organizations, and project owners from across Guyana and facilitate meetings and partnerships. My role in the project was development.</p>",
-              ],
-              gallery: {
-                imageOne: anansi2,
-                imageTwo: anansi3,
-                imageTree: anansi4,
-              },
-            },
-          ],
-        },
-        {
-          id: 4,
-          title: "Books news",
-          image: booksNews1,
-          category: "web",
-          delayAnimation: "0",
-          modalDetails: [
-            {
-              tag: ["Lms", "web"],
-              client: "Books News",
-              technolgy: "MongoDB, Express(Ts), Quasar, Node",
-              body: [
-                "<p>Books News is a learning management system designed to sell training courses in Madagascar. I was a developer on this project.</p>",
-              ],
-              gallery: {},
-            },
-          ],
-        },
+
         {
           id: 5,
-          title: "Brave",
-          image: brave1,
-          category: "web",
-          delayAnimation: "100",
-          modalDetails: [
-            {
-              tag: ["web", "headless"],
-              client: "Freelance",
-              technolgy: "Mysql, Wordpress, Headless, Vue.js",
-              body: [
-                "<p>Brave is a platform for managing civic services. It is designed to provide support and assistance to employees working in civic organizations at the national and local levels in the archipelago. In this project, I was responsible for creating the Headless, the WordPress site, and the vue.js platform.</p>",
-              ],
-              gallery: {
-                imageOne: brave2,
-                imageTwo: brave3,
-              },
-            },
-          ],
-        },
-        {
-          id: 6,
           title: "Mokagere",
           image: mokagere1,
           category: "web",
@@ -954,44 +934,7 @@ const Data = [
           ],
         },
         {
-          id: 7,
-          title: "Anticipio",
-          image: anticipio1,
-          category: "api",
-          delayAnimation: "0",
-          modalDetails: [
-            {
-              tag: ["web", "rest api", "back-end"],
-              client: "Freelance",
-              technolgy: "MongoDB, Nest, Next",
-              body: [
-                "<p>Anticipo is a project that provides orientation to new college graduates in Madagascar. I was responsible for creating the API (application programming interface) for the project.</p>",
-              ],
-              gallery: {},
-            },
-          ],
-        },
-        {
-          id: 8,
-          title: "Kiama-network",
-          image: kiamaNetwork1,
-          category: "api",
-          delayAnimation: "100",
-          modalDetails: [
-            {
-              tag: ["Social network", "Microservice", "back-end"],
-              client: "Kiama project",
-              technolgy:
-                "MongoDB, Postgresql, Express(ts), Go, Microservice, Docker, Kubernetes",
-              body: [
-                "<p>Kiama network is a social networking application that stands out from others due to its special features. As the lead developer on the project, I oversaw all aspects of the development, including analysis, coding, and devOPS (development and operations). Currently, we are working on the back-end microservice.</p>",
-              ],
-              gallery: {},
-            },
-          ],
-        },
-        {
-          id: 9,
+          id: 6,
           title: "Mokwizz",
           image: mokwizz1,
           category: "mobile",
@@ -1009,7 +952,7 @@ const Data = [
           ],
         },
       ],
-      sp: ["web", "blockchain", "multi-platform", "api"],
+      sp: ["web", "blockchain", "mobile", "api"],
 
       socialShare: [
         {
@@ -1033,7 +976,7 @@ const Data = [
           link: "https://medium.com/@xlaezkamou",
         },
       ],
-      Cv: cvAndry,
+      Cv: utibecv,
     },
   ],
 ];
