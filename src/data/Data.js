@@ -27,15 +27,7 @@ import readersplug2 from "../assets/images/utibe/portfolio/readersplug/readerspl
 import brave1 from "@assets/images/andry/portfolio/brave/1.png";
 import brave2 from "@assets/images/andry/portfolio/brave/2.png";
 import brave3 from "@assets/images/andry/portfolio/brave/3.png";
-// hi-baliaka
-import hiBaliaka1 from "@assets/images/andry/portfolio/hi-baliaka/1.png";
-import hiBaliaka3 from "@assets/images/andry/portfolio/hi-baliaka/3.png";
-// hi-bazary
-import hiBazary1 from "@assets/images/andry/portfolio/hi-bazary/1.png";
-import hiBazary2 from "@assets/images/andry/portfolio/hi-bazary/2.png";
-import hiBazary3 from "@assets/images/andry/portfolio/hi-bazary/3.png";
-import hiBazary4 from "@assets/images/andry/portfolio/hi-bazary/4.png";
-import hiBazary5 from "@assets/images/andry/portfolio/hi-bazary/5.png";
+
 // mokagere
 import mokagere1 from "@assets/images/andry/portfolio/mokagere/1.png";
 import mokagere2 from "@assets/images/andry/portfolio/mokagere/2.png";
@@ -236,7 +228,7 @@ const Data = [
         {
           id: 1,
           title: "Hi-Baliaka",
-          image: hiBaliaka1,
+          image: "",
           category: "web",
           delayAnimation: "0",
           modalDetails: [
@@ -248,7 +240,7 @@ const Data = [
                 "<p>Hi-baliaka is a software application used by Baliaka Education to help manage customer relationships, logistics, and staff supervision. This helps streamline management and planning, making it easier for managers and administrators to oversee and intervene. I was a consultant and developer on the Hi-baliaka project, which included analyzing the project requirements using Merise methodologies, choosing the appropriate technology, and developing and implementing the application.</p>",
               ],
               gallery: {
-                imageOne: hiBaliaka3,
+                imageOne: "",
               },
             },
           ],
@@ -256,7 +248,7 @@ const Data = [
         {
           id: 2,
           title: "Hi-Bazary",
-          image: hiBazary1,
+          image: "",
           category: "multi-platform",
           delayAnimation: "100",
           modalDetails: [
@@ -274,10 +266,10 @@ const Data = [
                 "<p>Hi-Bazary is an e-commerce platform that offers various features designed to make it easier for customers to shop online and for businesses to increase their sales and reach. Some of the features of Hi-Bazary include an online platform, tools to help increase customer purchases, and support for prospecting. As a developer, I used UML for analysis and to ensure the use of high-performance technologies in the development of Hi-Bazary, which also provides managers and administrators with secure tools for management, planning, and intervention.</p>",
               ],
               gallery: {
-                imageOne: hiBazary2,
-                imageTwo: hiBazary3,
-                imageThree: hiBazary4,
-                imageFour: hiBazary5,
+                imageOne: "",
+                imageTwo: "",
+                imageThree: "",
+                imageFour: "",
               },
             },
           ],
