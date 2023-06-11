@@ -1,5 +1,4 @@
 import tonioImg from "@assets/images/kiama/tonioImg.jpg";
-import cvTonio from "@assets/images/cvTonio.jpg";
 
 // =============================================================================
 // Andry Rasolofomanana Data
@@ -16,9 +15,6 @@ import anansi4 from "@assets/images/andry/portfolio/anansi/4.png";
 
 import krypt1 from "@assets/images/utibe/portfolio/krypt/krypt1.png";
 import krypt2 from "@assets/images/utibe/portfolio/krypt/krypt2.png";
-
-// books-news
-import booksNews1 from "@assets/images/andry/portfolio/books-news/1.png";
 
 // kamouhop
 import kamoushop from "@assets/images/utibe/portfolio/kamoushop/kamoushop.png";
@@ -50,7 +46,6 @@ import kiamaNetwork1 from "@assets/images/andry/portfolio/kiama-network/1.png";
 // readersplug
 import readersplug1 from "@assets/images/andry/portfolio/readersplug/2.png";
 // anticipio
-import anticipio1 from "@assets/images/andry/portfolio/anticipio/2.png";
 // mokwizz
 import mokwizz1 from "@assets/images/andry/portfolio/mokwizz/1.png";
 
@@ -312,7 +307,7 @@ const Data = [
         {
           id: 4,
           title: "Books news",
-          image: booksNews1,
+          image: "",
           category: "web",
           delayAnimation: "0",
           modalDetails: [
@@ -367,24 +362,6 @@ const Data = [
                 imageTree: mokagere4,
                 imageFour: mokagere5,
               },
-            },
-          ],
-        },
-        {
-          id: 7,
-          title: "Anticipio",
-          image: anticipio1,
-          category: "api",
-          delayAnimation: "0",
-          modalDetails: [
-            {
-              tag: ["web", "rest api", "back-end"],
-              client: "Freelance",
-              technolgy: "MongoDB, Nest, Next",
-              body: [
-                "<p>Anticipo is a project that provides orientation to new college graduates in Madagascar. I was responsible for creating the API (application programming interface) for the project.</p>",
-              ],
-              gallery: {},
             },
           ],
         },
@@ -653,7 +630,6 @@ const Data = [
         // },
         // { iconName: "fa fa-building", link: "https://kiama.com/" },
       ],
-      Cv: cvTonio,
     },
     {
       id: 1,
