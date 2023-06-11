@@ -433,7 +433,7 @@ const Data = [
         //   link: "https://kiama-website-git-dev-kiama.vercel.app/",
         // },
       ],
-      Cv: cvAndry,
+      Cv: "",
     },
     // =========================================================================
     {
