@@ -8,10 +8,6 @@ import kiamaImg from "@assets/images/andry/dark.jpg";
 import utibeImg from "@assets/images/utibe/avatar.jpg";
 import kiamaImgMobile from "@assets/images/andry/img-mobile.jpg";
 
-// cv
-import cvAndry from "@assets/images/andry/andry-rasolofomanana-cv.pdf";
-// import cvUtibe from "@assets/images/utibe/my-cv.docx";
-
 // anansi
 import anansi1 from "@assets/images/andry/portfolio/anansi/1.png";
 import anansi2 from "@assets/images/andry/portfolio/anansi/2.png";
@@ -37,9 +33,7 @@ import brave2 from "@assets/images/andry/portfolio/brave/2.png";
 import brave3 from "@assets/images/andry/portfolio/brave/3.png";
 // hi-baliaka
 import hiBaliaka1 from "@assets/images/andry/portfolio/hi-baliaka/1.png";
-import hiBaliaka2 from "@assets/images/andry/portfolio/hi-baliaka/2.png";
 import hiBaliaka3 from "@assets/images/andry/portfolio/hi-baliaka/3.png";
-import hiBaliaka4 from "@assets/images/andry/portfolio/hi-baliaka/4.png";
 // hi-bazary
 import hiBazary1 from "@assets/images/andry/portfolio/hi-bazary/1.png";
 import hiBazary2 from "@assets/images/andry/portfolio/hi-bazary/2.png";
