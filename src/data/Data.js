@@ -762,6 +762,7 @@ const Data = [
           { skillClass: "p92", skillPercent: "92", skillName: "TypeScript" },
           { skillClass: "p95", skillPercent: "95", skillName: "Express.Js" },
           { skillClass: "p99", skillPercent: "99", skillName: "Dolph.Js" },
+          { skillClass: "p85", skillPercent: "60", skillName: "Nest.js" },
           { skillClass: "p80", skillPercent: "80", skillName: "React.Js" },
           { skillClass: "p80", skillPercent: "80", skillName: "Next.Js" },
           { skillClass: "p70", skillPercent: "70", skillName: "Vue.Js" },
@@ -773,7 +774,7 @@ const Data = [
           { skillClass: "p75", skillPercent: "75", skillName: "Postgres" },
           { skillClass: "p95", skillPercent: "95", skillName: "MongoDb" },
           { skillClass: "p70", skillPercent: "70", skillName: "Mysql" },
-          { skillClass: "p60", skillPercent: "60", skillName: "Python" },
+          // { skillClass: "p60", skillPercent: "60", skillName: "Python" },
         ],
       },
       informationAdditional: {
@@ -883,7 +884,7 @@ const Data = [
             {
               tag: ["web", "rest api"],
               client: "Freelance",
-              technolgy: "MongoDB, Laravel, Vue.js",
+              technolgy: "MongoDB, Nest.js, Vue.js",
               body: [
                 "<p>Mokagere is a software application that assists with finding employment, internships, work-study programs, and accommodation in Guyana. My primary responsibility in the project was to design the database schema and develop the full-stack of the application.</p>",
               ],
