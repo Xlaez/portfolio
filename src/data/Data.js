@@ -762,7 +762,7 @@ const Data = [
           { skillClass: "p92", skillPercent: "92", skillName: "TypeScript" },
           { skillClass: "p95", skillPercent: "95", skillName: "Express.Js" },
           { skillClass: "p99", skillPercent: "99", skillName: "Dolph.Js" },
-          { skillClass: "p85", skillPercent: "60", skillName: "Nest.js" },
+          { skillClass: "p85", skillPercent: "85", skillName: "Nest.js" },
           { skillClass: "p80", skillPercent: "80", skillName: "React.Js" },
           { skillClass: "p80", skillPercent: "80", skillName: "Next.Js" },
           { skillClass: "p70", skillPercent: "70", skillName: "Vue.Js" },
