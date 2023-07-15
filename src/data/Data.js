@@ -765,7 +765,7 @@ const Data = [
           { skillClass: "p85", skillPercent: "85", skillName: "Nest.js" },
           { skillClass: "p80", skillPercent: "80", skillName: "React.Js" },
           { skillClass: "p80", skillPercent: "80", skillName: "Next.Js" },
-          { skillClass: "p70", skillPercent: "70", skillName: "Vue.Js" },
+          { skillClass: "p90", skillPercent: "90", skillName: "Vue.Js" },
           { skillClass: "p80", skillPercent: "80", skillName: "Go" },
           { skillClass: "p80", skillPercent: "80", skillName: "Gin-Gonic" },
           { skillClass: "p88", skillPercent: "88", skillName: "Testing" },
