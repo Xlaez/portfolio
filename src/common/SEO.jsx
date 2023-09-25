@@ -15,6 +15,11 @@ const SEO = ({ titlePage }) => {
           <title>
             {content.titleName} | {titlePage} - {designation} & Utibe
           </title>
+          <meta
+            name="description"
+            content="Utibeabasi is a software engineer with passion for building software development tools and technologies. He is the creator of the dolphjs framework and lead backend developer at ReadersPlug."
+          />
+          <meta name="robots" content="index, follow" />
         </Helmet>
       </HelmetProvider>
     </>
