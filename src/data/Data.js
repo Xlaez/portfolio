@@ -640,10 +640,6 @@ const Data = [
             meta: "Nickname",
             metaInfo: "Lyrx",
           },
-          // {
-          //   meta: "Age",
-          //   metaInfo: "17 Years",
-          // },
           {
             meta: "Favourite Language",
             metaInfo: "Typescript",
