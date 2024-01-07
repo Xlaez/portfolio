@@ -9,7 +9,7 @@ const Skills = () => {
       {skillsContent.map((val, i) => (
         <div className="col-6 col-md-3 mb-3 mb-sm-5" key={i}>
           <div className={`c100 ${val.skillClass}`}>
-            <span>{val.skillPercent}%</span>
+            <span></span>
             <div className="slice">
               <div className="bar"></div>
               <div className="fill"></div>
