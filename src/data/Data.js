@@ -786,7 +786,7 @@ const Data = [
           "Blockchain Developer",
           "Freelancer",
         ],
-        descriptions: `I  am a seasoned software developer with over 3+ years of experience in the industry. Throughout my career, I have contributed my skills and expertise to a variety of companies and startups, gaining valuable experience in different professional environments. I am passionate about leveraging my skills to contribute meaningfully to cutting-edge projects and collaborating with talented teams with a proven track record of delivering high-quality software solutions. I happen to also be the creator of dolphjs.`,
+        descriptions: `I  am a seasoned software developer with over 4+ years of experience in the industry. Throughout my career, I have contributed my skills and expertise to a variety of companies and startups, gaining valuable experience in different professional environments. I am passionate about leveraging my skills to contribute meaningfully to cutting-edge projects and collaborating with talented teams with a proven track record of delivering high-quality software solutions. I happen to also be the creator of dolphjs.`,
         kiamaBtn: "more about me",
       },
       PortfolioData: [
