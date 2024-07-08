@@ -681,7 +681,7 @@ const Data = [
         goal: "My goal is to build software to assists developers in making positive impact in the world as well as developing these technologies too.",
         archievements: [
           {
-            title: "3",
+            title: "4",
             subTitle1: "years of",
             subTitle2: "experience",
           },
@@ -928,7 +928,7 @@ const Data = [
         },
         {
           iconName: "fa fa-linkedin",
-          link: "https://www.linkedin.com/in/utibeabasi-ekong-09199722a/",
+          link: "https://www.linkedin.com/in/utibeabasi-akaninyene-09199722a/",
         },
         // {
         //   iconName: "fa fa-hashnode",
